@@ -357,7 +357,7 @@ Animator:
   m_GameObject: {fileID: 2488614154046801509}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 51772497514c9254383d9db555ffee5e, type: 3}
-  m_Controller: {fileID: 9100000, guid: b0d06ee886a47ce4b9ff7815ae968824, type: 2}
+  m_Controller: {fileID: 9100000, guid: 7496ee3257d4b6748b1c60bb4078e73a, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
@@ -1116,6 +1116,7 @@ SkinnedMeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1

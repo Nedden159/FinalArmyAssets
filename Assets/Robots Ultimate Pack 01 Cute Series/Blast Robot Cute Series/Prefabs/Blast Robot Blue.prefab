@@ -330,8 +330,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2258527208546549265}
-  m_LocalRotation: {x: 0.0000000021090645, y: -0.000000013250489, z: -0.057717375,
-    w: 0.998333}
+  m_LocalRotation: {x: 0.0000000021090645, y: -0.000000013250489, z: -0.057717375, w: 0.998333}
   m_LocalPosition: {x: -0.09913284, y: 0.000000019073486, z: 0}
   m_LocalScale: {x: 0.9999999, y: 0.9999997, z: 1}
   m_Children:
@@ -536,6 +535,7 @@ SkinnedMeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -627,8 +627,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3931064969807948497}
-  m_LocalRotation: {x: -0.0000029653318, y: 0.00000064517343, z: 0.00000015052696,
-    w: 1}
+  m_LocalRotation: {x: -0.0000029653318, y: 0.00000064517343, z: 0.00000015052696, w: 1}
   m_LocalPosition: {x: -0.77619535, y: -0.00000022888183, z: 0.0000009155273}
   m_LocalScale: {x: 0.99999976, y: 0.9999998, z: 1.0000002}
   m_Children: []
@@ -688,8 +687,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4721536939063975151}
-  m_LocalRotation: {x: -0.0000029653302, y: 0.00000064191437, z: -0.00000014749628,
-    w: 1}
+  m_LocalRotation: {x: -0.0000029653302, y: 0.00000064191437, z: -0.00000014749628, w: 1}
   m_LocalPosition: {x: -0.77619565, y: 0.00000022888183, z: 0.0000010681152}
   m_LocalScale: {x: 1.0000002, y: 1.0000002, z: 0.9999998}
   m_Children: []
@@ -931,7 +929,7 @@ Animator:
   m_GameObject: {fileID: 6969487929517679844}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: e14335db99f47444eacb2793fb52f7cc, type: 3}
-  m_Controller: {fileID: 9100000, guid: ff9cc93d2e6a37d4089eb0c348939121, type: 2}
+  m_Controller: {fileID: 9100000, guid: da7b3f2724bc97c46a72cae897cfd299, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 1

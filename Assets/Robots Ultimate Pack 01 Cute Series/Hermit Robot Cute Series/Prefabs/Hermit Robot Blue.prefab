@@ -194,6 +194,7 @@ SkinnedMeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -352,7 +353,7 @@ GameObject:
   - component: {fileID: 4458636948069422520}
   - component: {fileID: 7710284036440182722}
   m_Layer: 0
-  m_Name: Hermit Robot
+  m_Name: Hermit Robot Blue
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -389,7 +390,7 @@ Animator:
   m_GameObject: {fileID: 3939402840290381570}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 9bf588f25cf3b904996a0fdea19542f2, type: 3}
-  m_Controller: {fileID: 9100000, guid: 2df0ceed02ae52149a2e22f8d0331e76, type: 2}
+  m_Controller: {fileID: 9100000, guid: fa3599f0d8cf4ee4f8ce30a162a9e82c, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 1

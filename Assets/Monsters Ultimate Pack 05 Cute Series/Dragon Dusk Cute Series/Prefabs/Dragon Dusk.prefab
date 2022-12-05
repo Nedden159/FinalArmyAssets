@@ -165,6 +165,7 @@ SkinnedMeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -895,7 +896,7 @@ Animator:
   m_GameObject: {fileID: 6871454928475388035}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 6673ba2f77187aa41a22500b3212c448, type: 3}
-  m_Controller: {fileID: 9100000, guid: a6f14b967005ccf4fa26455c68e48fa2, type: 2}
+  m_Controller: {fileID: 9100000, guid: dc69c8ba2628b2e45be79e0f405ef086, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
