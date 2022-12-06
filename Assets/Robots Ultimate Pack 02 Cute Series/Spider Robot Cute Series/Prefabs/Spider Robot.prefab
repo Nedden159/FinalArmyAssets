@@ -42,6 +42,7 @@ SkinnedMeshRenderer:
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1053,7 +1054,7 @@ Animator:
   m_GameObject: {fileID: 6988570129540647879}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 2eb581f2012ed1e4fb369c471ae251f1, type: 3}
-  m_Controller: {fileID: 9100000, guid: a2e5d6c6d2eab564b877b5dba681db0c, type: 2}
+  m_Controller: {fileID: 9100000, guid: b629185d40fbd53429d9bc460e297862, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
@@ -1333,8 +1334,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9021546153339249860}
-  m_LocalRotation: {x: 0.0000000068742665, y: 0.000000025478295, z: -0.0036702156,
-    w: 0.99999326}
+  m_LocalRotation: {x: 0.0000000068742665, y: 0.000000025478295, z: -0.0036702156, w: 0.99999326}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
